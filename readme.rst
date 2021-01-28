@@ -1,5 +1,5 @@
 ###################
-Sistem Informasi Geografis Peta Sebaran COVID-19 dan Ruah Sakit Rujukan di Jawa barat
+Sistem Informasi Geografis Peta Sebaran COVID-19 dan Rumah Sakit Rujukan di Jawa barat
 ###################
 
 Aplikasi ini Merupakan suatu aplikasi untuk membantu masyarakat mengetahi informasi
