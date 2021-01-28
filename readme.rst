@@ -10,10 +10,10 @@ berupa peta digital
 Server Requirements
 *******************
 
-*Codeigniter 3<br/>
-*PHP version 5.6 or newer is recommended<br/>
-*Mysql<br/>
-*Xampp<br/>
+* Codeigniter 3<br/>
+* PHP version 5.6 or newer is recommended<br/>
+* Mysql<br/>
+* Xampp<br/>
 
 ************
 Installation
