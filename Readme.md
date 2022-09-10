@@ -21,10 +21,9 @@ berupa peta digital
 Aplikasi ini memiliki beberapa feature yaitu diantaranya
 * menampilkan berbagai jumlah pasien covid-19 pada header seperti jumlah Total Suspect, Kontak Erat, Total Probable, dsb
 * Menampilkan Peta yang berfokus di provinsi Jawa barat
-* menampilkan jumlah kumulatif tiap kabupaten/kota dengan manmpilkan pin point data
+* Terdapat pin point untuk kabupaten dan sebaran rumah sakit nya pada peta 
 * terdapat feature search pada peta
 * Login Feature dan Admin Dashboard
-
 
 ************
 ## API dan Geojson
