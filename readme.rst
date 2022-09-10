@@ -23,4 +23,9 @@ Architecture
 API di dapatkan dari sumber data API pemerintah daerah Jawa Barat
 https://pikobar.jabarprov.go.id/
 
+************
+   Tampilan
+************
+![beranda](https://user-images.githubusercontent.com/55653494/189467485-114108ea-67ea-4c52-a230-b6d2b8f5bc1e.png)
+
 
